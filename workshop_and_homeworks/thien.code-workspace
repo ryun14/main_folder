@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "../.."
+		},
+		{
+			"name": "ZoeDepth",
+			"path": "../../ZoeDepth"
+		},
+		{
+			"name": "SwinDepth",
+			"path": "../../SwinDepth"
+		}
+	],
+	"settings": {}
+}
